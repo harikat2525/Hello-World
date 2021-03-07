@@ -2,4 +2,5 @@
 <h2> Deploying on a Docker using Ansible for DurgaSoft Software Solutions by Venkat</h2>
 <h2> Successfully deployed war file on to tomcat server</h2>
 <h2> Successfully deployed war file on to Docker Container using Jenkins</h2>
+<h2> Successfully deployed war file on to Docker Container using Ansible</h2>
 <h2> Glad to see you here </h2>
