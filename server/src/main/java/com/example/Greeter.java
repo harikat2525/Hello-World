@@ -1,6 +1,6 @@
 package com.example;
 
-#this is a sample text
+/this is a sample text/
 /**
  * This is a class.
  */
