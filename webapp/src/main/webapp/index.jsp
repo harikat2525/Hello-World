@@ -4,6 +4,6 @@
 
 <h2> Successfully deployed war file on to Docker Container using Ansible</h2>
 
-<h2> Final Commit of the CICD Project </h2>
+<h2> Finally the CICD Project is completed on September 15th </h2>
 
 <h2> Glad to see you here </h2>
