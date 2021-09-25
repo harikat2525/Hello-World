@@ -4,6 +4,4 @@
 
 <h2> Successfully deployed war file on to Docker Container using Ansible</h2>
 
-<h2> Finally the CICD Project is completed on September 15th Jashwanth's Class </h2>
-
 <h2> Glad to see you here </h2>
